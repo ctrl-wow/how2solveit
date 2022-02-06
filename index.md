@@ -1,3 +1,5 @@
+# How to Solve it
+
 # Deterministic Problems
 
 * **Coloring Problem**: Find the lowest number of colors to color a map, with neighboring countries not being painted with the same color.
